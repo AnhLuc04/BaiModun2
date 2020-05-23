@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5324ece-ea6e-42ab-9e21-d8cad2c50cda" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../TEXT1/src/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../TEXT1/src/Counter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../TEXT1/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../TEXT1/src/Student10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../TEXT1/src/Student11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../TEXT1/src/Student12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../TEXT1/src/Student8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Triangle/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Triangle/src/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../src/Resizeable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../src/Resizeable/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../src/Resizeable/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../src/Resizeable/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../src/Resizeable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../src/Resizeable/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../src/text/src/Colorable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../src/text/src/Colorable/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../src/text/src/Colorable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../src/text/src/Colorable/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../src/text/src/Colorable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../src/text/src/Colorable/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../thu/src/TennisGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../thu/src/b1/TennisGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../thu/src/b1/TennisGameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../[Thực hành] Access modifier/src/Default/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../[Thực hành] Access modifier/src/Default/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../[Thực hành] Access modifier/src/Private/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../[Thực hành] Access modifier/src/Protected/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../[Thực hành] Access modifier/src/Protected/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../[Thực hành] Access modifier/src/Public/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../[Thực hành] Access modifier/src/Public/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../[Thực hành] Hệ các đối tượng hình học/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../[Thực hành] Hệ các đối tượng hình học/src/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../[Thực hành] Hệ các đối tượng hình học/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../[Thực hành] Hệ các đối tượng hình học/src/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../[Thực hành] Hệ các đối tượng hình học/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../[Thực hành] Hệ các đối tượng hình học/src/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../[Thực hành] Hệ các đối tượng hình học/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../[Thực hành] Hệ các đối tượng hình học/src/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../[Thực hành] Static Method/src/codegym/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../[Thực hành] Static Method/text/codegym/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../[Thực hành] Static Property/src/codegym/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../text/thu nghiem/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../text/thu nghiem/src/Student11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Circle và lớp Cylinder/src/b1/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Circle và lớp Cylinder/src/b1/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Circle và lớp Cylinder/src/b1/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Circle và lớp Cylinder/src/b1/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Circle/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Circle/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fan/src/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fan/src/Fan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fan/src/Fan/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fan/src/Fan/Fan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Point và MoveablePoint/src/b1/MovablePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Point và MoveablePoint/src/b1/MovablePoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Point và MoveablePoint/src/b1/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Point và MoveablePoint/src/b1/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Point/src/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Point/src/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Point/src/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Point/src/Point3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../StopWatch/src/b1/StopSwatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../StopWatch/src/b1/StopSwatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../StopWatch/text/b1/StopSwatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../StopWatch/text/b1/StopSwatchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ThucHanh/src/TV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../text/thu nghiem/src/all/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week2/src/Rectangle.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1acOYE6prZgIurT9qTS7koyRPfL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Colorable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5324ece-ea6e-42ab-9e21-d8cad2c50cda" name="Default Changelist" comment="" />
+      <created>1587031461024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587031461024</updated>
+      <workItem from="1587031462344" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1587031472694">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587031472694" />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Trien-khai-interface-Resizeable-cho-cac-lop-hinh-hoc.iml" filepath="$PROJECT_DIR$/Trien-khai-interface-Resizeable-cho-cac-lop-hinh-hoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/text/text.iml" filepath="$PROJECT_DIR$/src/text/text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thu/thu.iml" filepath="$PROJECT_DIR$/thu/thu.iml" />
+    </modules>
+  </component>
+</project>
