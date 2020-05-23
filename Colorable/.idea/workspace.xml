@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3fe5058-be64-4e14-98a1-c6ac89908ea3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ [Thực hành] Lớp Animal và interface Edible/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ [Thực hành] Lớp Animal và interface Edible/src/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ [Thực hành] Lớp Animal và interface Edible/src/animal/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ [Thực hành] Lớp Animal và interface Edible/src/animal/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ [Thực hành] Lớp Animal và interface Edible/src/edible/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ [Thực hành] Lớp Animal và interface Edible/src/fruit/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ [Thực hành] Lớp Animal và interface Edible/src/fruit/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ [Thực hành] Lớp Animal và interface Edible/src/fruit/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList/src/exercise/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colorable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colorable/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colorable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colorable/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colorable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colorable/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FizzBuzzResult/src/FizzBuzzResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FizzBuzzResult/text/FizzBuzzResultTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/exercisess/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/exercisess/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refactoring/TEXT/b1/TennisGameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refactoring/src/TennisGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refactoring/src/b1/TennisGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEXT/src/b1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEXT/src/b1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEXT/text1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEXT/text1/src/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEXT/text1/src/animal/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEXT/text1/src/animal/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEXT/text1/src/edible/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEXT/text1/src/fruit/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEXT/text1/src/fruit/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEXT/text1/src/fruit/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Triangle/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Triangle/src/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trien-khai-interface-Resizeable-cho-cac-lop-hinh-hoc/src/Resizeable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trien-khai-interface-Resizeable-cho-cac-lop-hinh-hoc/src/Resizeable/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trien-khai-interface-Resizeable-cho-cac-lop-hinh-hoc/src/Resizeable/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trien-khai-interface-Resizeable-cho-cac-lop-hinh-hoc/src/Resizeable/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trien-khai-interface-Resizeable-cho-cac-lop-hinh-hoc/src/Resizeable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trien-khai-interface-Resizeable-cho-cac-lop-hinh-hoc/src/Resizeable/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trien-khai-interface-Resizeable-cho-cac-lop-hinh-hoc/src/text/src/Colorable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trien-khai-interface-Resizeable-cho-cac-lop-hinh-hoc/src/text/src/Colorable/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trien-khai-interface-Resizeable-cho-cac-lop-hinh-hoc/src/text/src/Colorable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trien-khai-interface-Resizeable-cho-cac-lop-hinh-hoc/src/text/src/Colorable/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trien-khai-interface-Resizeable-cho-cac-lop-hinh-hoc/src/text/src/Colorable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trien-khai-interface-Resizeable-cho-cac-lop-hinh-hoc/src/text/src/Colorable/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TìmHiểu/src/b1collection/TestCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TìmHiểu/src/b2class/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TìmHiểu/src/b2class/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TìmHiểu/src/b3Main/Engineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TìmHiểu/src/b3Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TìmHiểu/src/b3Main/ManagerOfficer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TìmHiểu/src/b3Main/Officer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TìmHiểu/src/b3Main/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TìmHiểu/src/b3Main/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TìmHiểu/src/b4/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TìmHiểu/src/b4/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TìmHiểu/src/b4/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TìmHiểu/src/b4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TìmHiểu/src/b4/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Access modifier/src/Default/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Access modifier/src/Default/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Access modifier/src/Private/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Access modifier/src/Protected/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Access modifier/src/Protected/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Access modifier/src/Public/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Access modifier/src/Public/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Hệ các đối tượng hình học/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Hệ các đối tượng hình học/src/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Hệ các đối tượng hình học/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Hệ các đối tượng hình học/src/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Hệ các đối tượng hình học/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Hệ các đối tượng hình học/src/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Hệ các đối tượng hình học/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Hệ các đối tượng hình học/src/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Static Method/src/codegym/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Static Method/text/codegym/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Static Property/src/codegym/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Triển khai interface 'Comparator' để so sánh cách lớp hình học/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Triển khai interface 'Comparator' để so sánh cách lớp hình học/src/CircleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Triển khai interface 'Comparator' để so sánh cách lớp hình học/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Triển khai interface 'Comparator' để so sánh cách lớp hình học/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Triển khai interface 'Comparator' để so sánh cách lớp hình học/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Triển khai interface 'Comparator' để so sánh cách lớp hình học/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] triển khai interface 'Comparable' cho các lớp hình học/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] triển khai interface 'Comparable' cho các lớp hình học/src/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] triển khai interface 'Comparable' cho các lớp hình học/src/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] triển khai interface 'Comparable' cho các lớp hình học/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] triển khai interface 'Comparable' cho các lớp hình học/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] triển khai interface 'Comparable' cho các lớp hình học/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../theNextDay/src/theNextDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../theNextDay/text/theNextDayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Circle và lớp Cylinder/src/b1/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Circle và lớp Cylinder/src/b1/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Circle và lớp Cylinder/src/b1/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Circle và lớp Cylinder/src/b1/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Circle/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Circle/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fan/src/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fan/src/Fan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fan/src/Fan/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fan/src/Fan/Fan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Point và MoveablePoint/src/b1/MovablePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Point và MoveablePoint/src/b1/MovablePoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Point và MoveablePoint/src/b1/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Point và MoveablePoint/src/b1/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Point/src/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Point/src/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Point/src/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Point/src/Point3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StopWatch/src/b1/StopSwatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StopWatch/src/b1/StopSwatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StopWatch/text/b1/StopSwatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StopWatch/text/b1/StopSwatchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThucHanh/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThucHanh/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThucHanh/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThucHanh/ThucHanh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThucHanh/src/TV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/out/production/text/theNextDay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/out/test/text/theNextDayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/src/Class/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/src/Class/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/src/FizzBuzzResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/src/exercise/MyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/src/exercisess/MyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/src/exercisess/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/src/theNextDay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/text.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/text/FizzBuzzResultTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/text/exercise/MyListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/text/theNextDayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/thu nghiem/src/all/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/thu nghiem/thu nghiem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2/src/Rectangle.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1acOT3TUCsGWGcS98PUX5wSEaM1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TEXT/text1/src/edible/Edible.java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Colorable.Main" />
+      <module name="Colorable" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Colorable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3fe5058-be64-4e14-98a1-c6ac89908ea3" name="Default Changelist" comment="" />
+      <created>1587031419496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587031419496</updated>
+      <workItem from="1587031421238" duration="39000" />
+      <workItem from="1587031475247" duration="344000" />
+      <workItem from="1587091880739" duration="1787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1587092961889">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587092961889" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1587092520880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587092520880" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1587096151422">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587096151422" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1587096151422">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587096151422" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1587096151422">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587096151422" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1587096151422">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587096151422" />
+    <state x="65" y="0" key="new project wizard" timestamp="1587096149308">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587096149308" />
+  </component>
+</project>
